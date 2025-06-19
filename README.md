@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @interstellar2567
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning AI and ML
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on projects related to:  
 - Web development (JavaScript, Chrome extensions)   
 - Open-source sustainability projects  
